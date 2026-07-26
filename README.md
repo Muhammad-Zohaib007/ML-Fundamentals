@@ -1,1 +1,1 @@
-# ML-Internship
+# ML-Internship Fundamentals
